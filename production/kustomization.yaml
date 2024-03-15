@@ -5,3 +5,4 @@ bases:
 resources:
   - centos.yaml
   - nginx.yaml
+  - nginx-service.yaml
