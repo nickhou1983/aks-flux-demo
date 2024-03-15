@@ -4,3 +4,4 @@ bases:
   - ../base
 resources:
   - centos.yaml
+  - nginx.yaml
